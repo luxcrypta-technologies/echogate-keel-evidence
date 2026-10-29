@@ -56,4 +56,4 @@ Nothing here asks to be taken on faith. The technical background document names 
 
 ## Contact
 
-LuxCrypta Technologies LLC — [luxcrypta.ai/contact](https://luxcrypta.ai/contact/)
+LuxCrypta Technologies LLC — [tcoleman@luxcrypta.ai](mailto:tcoleman@luxcrypta.ai)
